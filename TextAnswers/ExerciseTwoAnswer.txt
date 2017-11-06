@@ -1,0 +1,14 @@
+1) Seeing each of the channels for the colorspaces broken down into their parts is super interesting. While RGB seems to have an even distribution of "fullness" across the different channels, it seems that HSV and YCrCb have a "main" channel (H and Y respectively) and two other "supporting" channels to create the full image
+
+2) 
+R - [0,255]
+G - [0,255]
+B - [0,255]
+
+Y - [16,235]
+Cr- [16,240]
+Cb- [16,240]
+
+H - [0,179]
+S - [0,255]
+V - [0,255]

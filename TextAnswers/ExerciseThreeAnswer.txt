@@ -1,0 +1,1 @@
+2) It seems like the median blur filter benefits salt and pepper noise the best, while the Gaussian folter works the best with Gaussian noise (ha!)

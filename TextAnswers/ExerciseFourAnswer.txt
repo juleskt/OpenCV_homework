@@ -1,0 +1,5 @@
+1) Thresholding is essentially applying a filter on top of an image to achieve a Y/N response in pixels.Its interesting to observe how different threshold filters and values react to various lighting and shadow situations across the test images.
+
+2) Binary threshold would only work on relatively simple environments. If the object we are trying to identify has different lighting on different parts (shadow, sunlight, etc), whatever single value we pick for the binary threshold might cause us to miss some details.
+
+3) When the object we want to detect has many different lighting conditions on it at once (sunlight, shadow), but we still want to get a good threshold on the object, we can use Adaptive.

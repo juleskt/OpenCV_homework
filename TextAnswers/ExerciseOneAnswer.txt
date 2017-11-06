@@ -1,0 +1,1 @@
+Given a cvMat object, a program would traverse the elements of the cvMat and would use the type of the cvMat to determine the parsing and colorspace interpretation of each element, which would translate to a pixel per element.
